@@ -1,0 +1,109 @@
+/* === Variáveis de cores === */
+:root {
+    --background-default: #F5F4F0;
+    --border-primary: #D9D9D9;
+
+    --text-primary: #1B1B1B;
+    --text-secondary: #333333;
+    --text-tertiary: #696969;
+    --text-headline: #E1624F;
+
+    --accent-blue: #0C51A7;
+    --accent-orange: #E95E10;
+    --accent-pink: #E5245E;
+    --accent-purple: #591B98;
+}
+
+/* === Reset básico === */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--background-default);
+    font-family: 'Open Sans', sans-serif;
+    color: var(--text-primary);
+    line-height: 1.6;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* === Tipografia === */
+.title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.section-title {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.destination-title {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 16px;
+}
+
+.subtitle {
+    font-size: 16px;
+    font-weight: italic;
+    margin-bottom: 4px;
+}
+
+.paragraph {
+    font-size: 16px;
+    color: var(--text-secondary);
+    margin-top: 8px;
+}
+
+/* === Imagens === */
+.main-image,
+.destination-image {
+    width: 100%;
+    border-radius: 12px;
+    margin-top: 12px;
+}
+
+/* === Destinos === */
+.destination {
+    margin-top: 28px;
+}
+
+.tag {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 6px;
+    font-size: 14px;
+    color: white;
+    margin-right: 6px;
+}
+
+.accent-blue { background-color: var(--accent-blue); }
+.accent-orange { background: var(--accent-orange); }
+.accent-pink { background-color: var(--accent-pink); }
+.accent-purple { background-color: var(--accent-purple); }
+.accent-text-orange {
+    color: var(--accent-orange);
+}
+
+/* === Footer === */
+.footer {
+    margin-top: 40px;
+    padding: 16px 0;
+    border-top: 1px solid var(--border-primary);
+    text-align: center;
+}
+
+/* === Divider === */
+hr {
+  border: none;
+  border-top: 1px solid #D9D9D9;
+  margin-top: 40px;
+  margin-bottom: 64px;
+}
