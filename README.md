@@ -1,6 +1,5 @@
-# 🌍 Local Turístico
+  # 🌍 Local Turístico
 
-![Banner do Projeto](assets/banner.png)
 
 > Um site moderno e responsivo para apresentar destinos turísticos, desenvolvido com **HTML** e **CSS** seguindo o design do Figma.
 
@@ -10,18 +9,19 @@
 
 ### 🎯 Paleta de Cores
 
-| Tipo           | Cor       | Código HEX |
-| -------------- | --------- | ---------- |
-| **Background** | ![#F5F4F0](https://via.placeholder.com/20/F5F4F0?text=+) | `#F5F4F0` |
-| **Border**     | ![#D9D9D9](https://via.placeholder.com/20/D9D9D9?text=+) | `#D9D9D9` |
-| **Texto Primário** | ![#1B1B1B](https://via.placeholder.com/20/1B1B1B?text=+) | `#1B1B1B` |
-| **Texto Secundário** | ![#333333](https://via.placeholder.com/20/333333?text=+) | `#333333` |
-| **Texto Terciário** | ![#696969](https://via.placeholder.com/20/696969?text=+) | `#696969` |
-| **Texto Headline** | ![#E1624F](https://via.placeholder.com/20/E1624F?text=+) | `#E1624F` |
-| **Accent Blue** | ![#0C51A7](https://via.placeholder.com/20/0C51A7?text=+) | `#0C51A7` |
-| **Accent Orange** | ![#E95E10](https://via.placeholder.com/20/E95E10?text=+) | `#E95E10` |
-| **Accent Pink** | ![#E5245E](https://via.placeholder.com/20/E5245E?text=+) | `#E5245E` |
-| **Accent Purple** | ![#591B98](https://via.placeholder.com/20/591B98?text=+) | `#591B98` |
+| Tipo                 | Cor                                                                 | Código HEX |
+|----------------------|---------------------------------------------------------------------|------------|
+| **Background**       | ![#F5F4F0](https://dummyimage.com/15x15/F5F4F0/F5F4F0.png)          | `#F5F4F0`  |
+| **Border**           | ![#D9D9D9](https://dummyimage.com/15x15/D9D9D9/D9D9D9.png)          | `#D9D9D9`  |
+| **Texto Primário**   | ![#1B1B1B](https://dummyimage.com/15x15/1B1B1B/1B1B1B.png)          | `#1B1B1B`  |
+| **Texto Secundário** | ![#333333](https://dummyimage.com/15x15/333333/333333.png)          | `#333333`  |
+| **Texto Terciário**  | ![#696969](https://dummyimage.com/15x15/696969/696969.png)          | `#696969`  |
+| **Texto Headline**   | ![#E1624F](https://dummyimage.com/15x15/E1624F/E1624F.png)          | `#E1624F`  |
+| **Accent Blue**      | ![#0C51A7](https://dummyimage.com/15x15/0C51A7/0C51A7.png)          | `#0C51A7`  |
+| **Accent Orange**    | ![#E95E10](https://dummyimage.com/15x15/E95E10/E95E10.png)          | `#E95E10`  |
+| **Accent Pink**      | ![#E5245E](https://dummyimage.com/15x15/E5245E/E5245E.png)          | `#E5245E`  |
+| **Accent Purple**    | ![#591B98](https://dummyimage.com/15x15/591B98/591B98.png)          | `#591B98`  |
+
 
 ---
 
@@ -38,8 +38,10 @@
 
 ---
 
+
 ## 📂 Estrutura do Projeto
 
+```text
 📦 local-turistico
  ┣ 📂 assets
  ┃ ┣ 📂 css
@@ -51,6 +53,7 @@
  ┃    ┗ 📜 imagem_04.jpg
  ┣ 📜 index.html
  ┗ 📜 README.md
+```
 
 
 
@@ -64,6 +67,6 @@
 
 2. Abra o arquivo index.html no navegador.
 
-📸 Prévia
 
-    ![preview](assets/images/screen.gif)
+
+    
